@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">I'm Mostlime, a 16 year old programmer and game developer of five years.</h4>
+<h4 align="center">I'm Mostlime, a 16 year old programmer and game developer with 6+ years of experience in the software engineering industry.</h4>
 
 ###
 
