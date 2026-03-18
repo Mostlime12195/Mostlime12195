@@ -1,76 +1,26 @@
-<h1 align="center">Hi 👋! I'm Mostlime.</h1>
+<h1>Karo Roghzai</h1>
 
-###
+<p><em>Software engineer, ML researcher, Generalist.</em></p>
 
-<h4 align="center">I'm Mostlime, a 17 year old programmer and game developer with 6+ years of experience in the software engineering industry.</h4>
+<p>
+  I've been building games, tools, sites, ML models, and all else cool for the past 6 years. I care a lot about privacy, open source, and continuously learning things outside of whatever I'm currently focused on.
+</p>
 
-###
+<p>
+  Most of my ML work lives on
+  <a href="https://huggingface.co/MostLime">HuggingFace</a>.
+  I write about my cool stuff on <a href="https://mostlime.pages.dev/blog">my blog</a>.
+</p>
 
-<h2 align="left">Here's my stats:</h2>
+---
 
-###
+<p>
+  I use a variety of tools and never stick to any one library or language. But here's what I most enjoy using day-to-day:
+</p>
+<p align="center">
+  Python · PyTorch · C++ · JavaScript/TypeScript · Godot · Blender · GIMP
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostlime12195" height="150" alt="mostlime's stat graph"  />
-</div>
-
-###
-
-<h2 align="left">Some of the tools and languages I use:</h2>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=godot" height="30" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gimp/5C5543" height="30" alt="gimp logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-</div>
-
-###
-
-<h2 align="left">Finally, my contacts:</h2>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Mostlime12195&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=mostlime@outlook.com&logo=microsoft-outlook&label=Outlook&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-</div>
-
-###
-
-<br clear="both">
+---
 
 <img src="https://raw.githubusercontent.com/mostlime12195/mostlime12195/output/snake.svg" alt="Snake animation" />
-
-###
