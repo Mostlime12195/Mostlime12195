@@ -17,9 +17,9 @@
 <p>
   I use a variety of tools and never stick to any one library or language. But here's what I most enjoy using day-to-day:
 </p>
-<p align="center">
+<h5>
   Python · PyTorch · C++ · JavaScript/TypeScript · Godot · Blender · GIMP
-</p>
+</h5>
 
 ---
 
