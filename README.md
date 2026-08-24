@@ -3,7 +3,7 @@
 <p><em>Software engineer, ML researcher, Generalist.</em></p>
 
 <p>
-  I'm 17 years old and I've been building games, tools, sites, ML models, and all else cool for the past 6 years. I care a lot about privacy, open source, and continuously learning things outside of whatever I'm currently focused on.
+  I've been building games, tools, sites, ML models, and all else cool for the past 7 years. I care a lot about privacy, open source, and continuously learning things outside of whatever I'm currently focused on.
 </p>
 
 <p>
